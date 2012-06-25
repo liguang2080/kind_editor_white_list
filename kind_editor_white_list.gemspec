@@ -4,8 +4,8 @@ require File.expand_path('../lib/kind_editor_white_list/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["lg2046"]
   gem.email         = ["lg2046@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{kind editor white list}
+  gem.summary       = %q{kind editor white list}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
