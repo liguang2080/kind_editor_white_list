@@ -1,12 +1,12 @@
 # KindEditorWhiteList
 
-TODO: Write a gem description
+White List  make for kind editor
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'kind_editor_white_list'
+    gem 'kind_editor_white_list', :git => 'git://github.com/lg2046/kind_editor_white_list.git'
 
 And then execute:
 
